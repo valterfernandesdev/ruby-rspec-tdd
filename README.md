@@ -1,2 +1,5 @@
 # ruby-spec-tdd
-Usando spec com ruby
+Using RSpec with ruby
+
+
+Execute 'bundle install' before running 'rspec'
